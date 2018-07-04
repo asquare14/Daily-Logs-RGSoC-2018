@@ -8,5 +8,3 @@
   - We learnt about the [bind()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind) method in javascript. We understood how they can be problematic, how they affect performance and why we need to bind a function in the constructor.
   - We also learnt about arrow functions and how they act as a workaround for `bind()`.The arrow function introduced in ES6 is a function with the current ‘this’ context already bound to the function. It is a cleaner,declarative to declare React components.
   - We learnt about styling checkbox and radio button
-#### **To-Do**
-  - We learnt about styling checkbox and radio button
