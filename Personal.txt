@@ -1,0 +1,22 @@
+#### ** Tasks to be completed**
+ - Started work on issue [#870](https://github.com/ifmeorg/ifme/issues/870) .
+    - Implemented a report button on user profile.
+    - We were able to redirect a user to a new view when he/she clicks on user button. But sadly this isn't what we want :P
+
+#### **Things we learnt**
+  - We want to build an admin panel next so we explored the [Rails Admin](https://github.com/sferik/rails_admin) and [CanCan](https://github.com/CanCanCommunity/cancancan) gem.
+  - Used [local tunneling](https://github.com/localtunnel/localtunnel) for testing if-me !
+  - Found a fun fact ! Ruby on Rails uses [Metaprogramming](https://www.quora.com/What-is-metaprogramming
+https://stackoverflow.com/questions/8588768/how-do-i-avoid-the-specification-of-the-username-and-password-at-every-git-push
+).
+
+#### **To-Do**
+- Write test for Radiobutton
+- Work on Pagination component
+- Work on Profile Modal
+- Look for conferences
+- Finish up interview for if-me blog
+- Look for conferences
+- Finish up interview for if-me blog
+- Submitting and saving the report to the database through a new action.
+- Notify the reported user via mail.
