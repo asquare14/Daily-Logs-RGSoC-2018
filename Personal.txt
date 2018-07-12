@@ -16,7 +16,5 @@ https://stackoverflow.com/questions/8588768/how-do-i-avoid-the-specification-of-
 - Work on Profile Modal
 - Look for conferences
 - Finish up interview for if-me blog
-- Look for conferences
-- Finish up interview for if-me blog
 - Submitting and saving the report to the database through a new action.
 - Notify the reported user via mail.
