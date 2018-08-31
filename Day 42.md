@@ -5,7 +5,7 @@
    
 #### **Things we learnt**
   - I18n in Rails.
-  - git squash in rails.
+  - git squash .
   
 #### **To-Do**
    - Continue Report Feature.
