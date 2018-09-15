@@ -76,7 +76,7 @@ Search for Allies to help you
 If me logo drops down to allow you to modify account or sign out
 
 # Admin Dashboard
-![](https://github.com/aSquare14/Daily-Logs-RGSoC-2018/blob/master/Selection_004.png)
+![](https://github.com/aSquare14/Daily-Logs-RGSoC-2018/blob/master/Selection_005.png)
 Search for Allies to help you
 
 
